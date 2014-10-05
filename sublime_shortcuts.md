@@ -1,12 +1,14 @@
 ## Sublime Text Shortcuts (Mac OS X): Subset of Useful Commands
-|  ⌘  | command |
+
 | --- | -------:| 
+|  ⌘  | command |
 |  ⇧  | shift	|
 |  ^  | control	|
 |  ⌥  | option 	|
 
 ### Go To
 
+| ----- | -------------------------:| 
 | ⌘P 	| go to file 				|
 | ⌘R   	| go to method				|
 | ^G   	| go to lines 				|
@@ -15,6 +17,7 @@
 
 ### Select
 
+| --------- | -----------------------------:| 
 | ⌘L  		| select line 					|
 | ⌘D  		| select word 					|
 | ⇧⌘Space 	| select scope 					|
@@ -24,15 +27,18 @@
 
 ### Insert
 
+| --- | -------------------:| 
 | ⌘⇧↩︎ | insert line before	|
 | ⌘↩︎  | insert line after	|
 
 ### Indent
 
+| --- | ------:| 
 | ⌘][ | indent |
 
 ### Delete
 
+| ----- | ---------------------------------:| 
 | ^⇧K 	| delete line 						|
 | ^K 	| delete to end 					|
 | ⌘⌘K 	| delete from cursor to line end 	|
@@ -40,11 +46,13 @@
 
 ### Manipulate
 
+| ----- | -----------------:| 
 | ⇧⌘D 	| duplicate line 	|
 | ⌘J 	| join line 		|
 | ^⌘↑↓ 	| swap line 		|
 
 ### Format
 
+| ----- | -------------------------:| 
 | ⌘KU 	| convert to upper case 	|
 | ⌘KL 	| convert to lower case		|
