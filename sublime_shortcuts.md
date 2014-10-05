@@ -9,6 +9,7 @@
 
 ### Go To
 
+| how?  | what?						| 
 | ----- | -------------------------:| 
 | ⌘P 	| go to file 				|
 | ⌘R   	| go to method				|
@@ -18,6 +19,7 @@
 
 ### Select
 
+| how? 		| what?							| 
 | --------- | -----------------------------:| 
 | ⌘L  		| select line 					|
 | ⌘D  		| select word 					|
@@ -28,17 +30,20 @@
 
 ### Insert
 
-| --- | -------------------:| 
-| ⌘⇧↩︎ | insert line before	|
-| ⌘↩︎  | insert line after	|
+| how?  | what?					| 
+| ----- | ---------------------:| 
+| ⌘⇧↩︎ 	| insert line before	|
+| ⌘↩︎  	| insert line after		|
 
 ### Indent
 
-| --- | ------:| 
-| ⌘][ | indent |
+| how?  | what?	 | 
+| ----- | ------:| 
+| ⌘][ 	| indent |
 
 ### Delete
 
+| how?  | what?								| 
 | ----- | ---------------------------------:| 
 | ^⇧K 	| delete line 						|
 | ^K 	| delete to end 					|
@@ -47,6 +52,7 @@
 
 ### Manipulate
 
+| how?  | what?				| 
 | ----- | -----------------:| 
 | ⇧⌘D 	| duplicate line 	|
 | ⌘J 	| join line 		|
@@ -54,6 +60,7 @@
 
 ### Format
 
+| how?  | what?						| 
 | ----- | -------------------------:| 
 | ⌘KU 	| convert to upper case 	|
 | ⌘KL 	| convert to lower case		|
