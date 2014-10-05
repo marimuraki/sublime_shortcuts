@@ -1,10 +1,11 @@
 ## Sublime Text Shortcuts (Mac OS X): Subset of Useful Commands
 
-| --- | -------:| 
-|  ⌘  | command |
-|  ⇧  | shift	|
-|  ^  | control	|
-|  ⌥  | option 	|
+|  symbol   | what?    	|
+| --------- | ---------:| 
+|  ⌘    	| command 	|
+|  ⇧  		| shift		|
+|  ^  		| control	|
+|  ⌥  		| option 	|
 
 ### Go To
 
